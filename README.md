@@ -1,6 +1,6 @@
 # Hi👋, I'm Pavithran G
 # 💫 About Me:
-🔭 I’m currently working on Project [Eco Ride](https://github.com/G-Pavithran-dev/Eco_Ride_Project)    <br>🌱 I’m currently exploring **Artificial Intelligence**  <br>💬 Ask me about **React, TailwindCSS, Java**  <br>📫 How to reach me **pavithran.g.tech@gmail.com**  <br>
+🔭 I’m currently working on Project [Eco Ride](https://github.com/G-Pavithran-dev/Eco_Ride_Project)    <br>🌱 I’m currently exploring **Blockchain Technology**  <br>💬 Ask me about **React, TailwindCSS, Java**  <br>📫 How to reach me **pavithran.g.tech@gmail.com**  <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-pavithran) 
